@@ -1,0 +1,80 @@
+[
+  {
+    "EP": "0406",
+    "Data": {
+      "EndPoint": "0406",
+      "Data": {
+        "clients": 0,
+        "gametype": "Freeroam",
+        "hostname": "^3[VIETNAM] Anh Em Cột Chèo NewBie - Clan - Thời Trang - Discord.gg/aeccgta5",
+        "mapname": "",
+        "sv_maxclients": 1000,
+        "enhancedHostSupport": true,
+        "requestSteamTicket": "on",
+        "resources": [],
+        "server": "FXServer-master SERVER v1.0.0.11427 win32",
+        "vars": {
+          "gamename": "gta5",
+          "locale": "vi-VN",
+          "onesync_enabled": "true",
+          "sv_disableClientReplays": "false",
+          "sv_enforceGameBuild": "3095",
+          "sv_enhancedHostSupport": "true",
+          "sv_lan": "false",
+          "sv_poolSizesIncrease": "",
+          "sv_projectDesc": "RolePlay Việt Nam",
+          "sv_projectName": "MFI CITY",
+          "sv_pureLevel": "0",
+          "sv_replaceExeToSwitchBuilds": "true",
+          "sv_scriptHookAllowed": "false",
+          "premium": "pt",
+          "banner_detail": "https://raw.githubusercontent.com/linhzec/chitchit/refs/heads/main/launcher_2.png"
+        },
+        "players": [],
+        "private": false,
+        "fallback": false,
+        "connectEndPoints": ["localhost:30120"],
+        "svMaxclients": 1000
+      }
+    }
+  },
+  {
+    "EP": "0407",
+    "Data": {
+      "EndPoint": "0407",
+      "Data": {
+        "clients": 0,
+        "gametype": "Freeroam",
+        "hostname": "^3[VIETNAM] Anh Em Cột Chèo NewBie - Clan - Thời Trang - Discord.gg/aeccgta5",
+        "mapname": "",
+        "sv_maxclients": 1000,
+        "enhancedHostSupport": true,
+        "requestSteamTicket": "on",
+        "resources": [],
+        "server": "FXServer-master SERVER v1.0.0.11427 win32",
+        "vars": {
+          "gamename": "gta5",
+          "locale": "vi-VN",
+          "onesync_enabled": "true",
+          "sv_disableClientReplays": "false",
+          "sv_enforceGameBuild": "3095",
+          "sv_enhancedHostSupport": "true",
+          "sv_lan": "false",
+          "sv_poolSizesIncrease": "",
+          "sv_projectDesc": "RolePlay Việt Nam",
+          "sv_projectName": "Server Test",
+          "sv_pureLevel": "0",
+          "sv_replaceExeToSwitchBuilds": "true",
+          "sv_scriptHookAllowed": "false",
+          "premium": "pt",
+          "banner_detail": "https://raw.githubusercontent.com/linhzec/chitchit/refs/heads/main/launcher_1.png"
+        },
+        "players": [],
+        "private": false,
+        "fallback": false,
+        "connectEndPoints": ["localhost:30120"],
+        "svMaxclients": 1000
+      }
+    }
+  }
+]
